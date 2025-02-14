@@ -1,0 +1,8 @@
+Hola, este es un texto de prueba para verificar.
+
+El codigo test1.l permite contar el numero de palabras, caracteres y
+
+lineas.
+
+Dale una prueba.
+
