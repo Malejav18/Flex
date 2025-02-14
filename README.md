@@ -10,7 +10,7 @@ Para ejecutar los códigos de Lex, es necesario contar con las herramientas de L
 sudo apt-get install flex
 ```
 
-Y para instalar la herramienta de Bison, se ejecuta el comando:
+Aunque para ejecutar estos programas no es necesario, para instalar la herramienta de Bison, se ejecuta el comando:
 
 ```
 sudo apt-get install bison
