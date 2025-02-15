@@ -10,7 +10,10 @@ Se realizan códigos para ejecutar diferentes tareas con el propósito de aprend
 
 # 🧷 Requerimientos necesarios
 
-Para ejecutar los códigos de Lex, es necesario contar con las herramientas de Lex y Yacc, o Flex y Bison. Dependiendo del sistema operativo, se pueden necesitar pasos específicos para instalarlo. En el caso de Linux, para instalar la herramienta de Flex, se ejecuta el comando:
+Para ejecutar los códigos de Lex, es necesario contar con las herramientas de Lex y Yacc, o Flex y Bison. Dependiendo del sistema operativo, se pueden necesitar pasos específicos para instalarlo. 
+
+## Linux
+En el caso de Linux, para instalar la herramienta de Flex, se ejecuta el comando:
 
 ```
 sudo apt-get install flex
@@ -20,6 +23,23 @@ Aunque para ejecutar estos programas no es necesario, para instalar la herramien
 
 ```
 sudo apt-get install bison
+```
+
+## MacOs
+
+Instalar homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Instalar flex
+```
+brew install flex
+```
+
+Instalar bison
+```
+brew install bison
 ```
 
 # ⚡Como usarlo
