@@ -116,9 +116,6 @@ test5.l -> Clasificador de números complejos
 **Archivo txt**
 
 <img width="172" alt="image" src="https://github.com/user-attachments/assets/2313b6c7-4c7d-46bc-b62b-e2ba6eeba6bb" />
-
-**Compilación**
-
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/e1e78801-b178-47d8-a6f8-3d52d4ec4097" />
 
 
