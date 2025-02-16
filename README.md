@@ -92,3 +92,44 @@ test4.l -> Reconocedor de tokens de calculadora estilo Bison
 test5.l -> Clasificador de números complejos
 
 - Indica si la entrada es o no un número complejo mediante ACEPTA o NO ACEPTA.
+
+## Prueba de implementación
+
+### Ejercicio 1
+**Archivo txt
+<img width="652" alt="image" src="https://github.com/user-attachments/assets/f7295db2-8864-416e-b83a-0905ed99441d" />
+
+Compilación**
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/31064344-c4a6-4d38-b18d-436d25b60cf2" />
+
+
+### Ejercicio 2
+**Archivo txt
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/aa23c9bc-f9fc-4a93-b47a-184ee5a48128" />
+
+Compilación**
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/2fc5404d-3848-4259-9c27-4bdedbafe1ed" />
+
+
+### Ejercicio 3
+**Archivo txt
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/2313b6c7-4c7d-46bc-b62b-e2ba6eeba6bb" />
+
+Compilación**
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/e1e78801-b178-47d8-a6f8-3d52d4ec4097" />
+
+
+### Ejercicio 4
+**Archivo txt
+<img width="223" alt="image" src="https://github.com/user-attachments/assets/cef93052-5c1f-4743-9529-8e14e8abec8a" />
+
+Compilación**
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/55d4a702-b964-4521-9aae-9c28d7ef2550" />
+
+
+### Ejercicio 5
+**Archivo txt
+<img width="135" alt="image" src="https://github.com/user-attachments/assets/e13c0f1a-e136-48ff-8236-b633b95ae6b0" />
+
+Compilación**
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/de373071-a887-4ebb-98eb-50b58d554d2d" />
