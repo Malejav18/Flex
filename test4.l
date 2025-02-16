@@ -22,10 +22,10 @@
 [ \t] { }
 . { printf("Caracter Desconocido: %c\n", *yytext); }
 %%
-main(int argc, char **argv)
+int main(int argc, char **argv)
 {
  int token;
- while(token = yylex()) {
+ while((token = yylex())) {
  printf("%d", token);
  if(token == NUMBER) printf(" = %d\n", yylval);
  else printf("\n");
