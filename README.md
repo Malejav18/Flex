@@ -96,7 +96,7 @@ test5.l -> Clasificador de números complejos
 ## Prueba de implementación
 
 ### Ejercicio 1
-**Archivo txt
+**Archivo txt**
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/f7295db2-8864-416e-b83a-0905ed99441d" />
 
 Compilación**
