@@ -99,9 +99,6 @@ test5.l -> Clasificador de números complejos
 **Archivo txt**
 
 <img width="652" alt="image" src="https://github.com/user-attachments/assets/f7295db2-8864-416e-b83a-0905ed99441d" />
-
-**Compilación**
-
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/31064344-c4a6-4d38-b18d-436d25b60cf2" />
 
 
