@@ -93,7 +93,7 @@ test5.l -> Clasificador de números complejos
 
 - Indica si la entrada es o no un número complejo mediante ACEPTA o NO ACEPTA.
 
-## Prueba de implementación
+## 👾 Prueba de implementación
 
 ### Ejercicio 1
 
